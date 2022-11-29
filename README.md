@@ -1,0 +1,2 @@
+# manuscript
+ a manuscript template
